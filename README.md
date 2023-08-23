@@ -25,6 +25,7 @@ GitHub:
 📷 Image das telas do projeto
 
  - Tela grande
+   
 ![taxi-go](https://github.com/alexLDSpedroDEV/taxi-go/assets/115034319/245705f2-473a-4b80-8854-fa046839991a)
 
 - Tela media
