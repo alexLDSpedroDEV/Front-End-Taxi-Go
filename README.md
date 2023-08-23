@@ -33,6 +33,8 @@ GitHub:
 
 
 - Tela mobile
+
+  
 ![taxi-go3 (2)](https://github.com/alexLDSpedroDEV/taxi-go/assets/115034319/c7aca62a-861e-4baa-acfa-0221e67b2f5b)
 
 - Tela Autenticação
