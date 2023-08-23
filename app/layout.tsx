@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <ClerkProvider >
+    <ClerkProvider>
       <html lang="PT-br">
         <body className={outfit.className}>
           <NavBar/>
