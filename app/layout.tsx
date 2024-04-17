@@ -4,6 +4,7 @@ import { Inter, Outfit } from 'next/font/google'
 import { ClerkProvider } from '@clerk/nextjs'
 import NavBar from '@/components/NavBar'
 
+
 const outfit = Outfit({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
@@ -17,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <ClerkProvider>
+    <ClerkProvider publishableKey={"pk_test_c2F2ZWQtc3BhcnJvdy0yMy5jbGVyay5hY2NvdW50cy5kZXYk"}>
       <html lang="PT-br">
         <body className={outfit.className}>
           <NavBar/>
